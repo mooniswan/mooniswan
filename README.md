@@ -1,4 +1,4 @@
-### ✴✴︎✴︎✴︎✴︎ Hi there ✴︎✴︎✴︎✴︎✴︎
+## ✴✴︎✴︎✴︎✴︎ Hi there ✴︎✴︎✴︎✴︎✴︎
 
 <!--
 **mooniswan/mooniswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ### 🧠 SKills 🧠
 **Platforms & Languages**
 <img src="https://img.shields.io/badge/Android-black?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-black?style=flat-square&logo=android&logoColor=white"/>
+<br/>
 **Tools**
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
