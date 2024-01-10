@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooniswan&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
-  
 <img src="https://github-readme-stats.vercel.app/api?username=mooniswan&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 
-<!--
-![mooniswan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mooniswan&count_private=true&show_icons=true&theme=great-gatsby)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mooniswan)](https://solved.ac/mooniswan)
--->
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mooniswan&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
