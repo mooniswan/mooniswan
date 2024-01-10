@@ -8,15 +8,15 @@
   <br/>
 <img src="https://img.shields.io/badge/Android-black?style=flat-square&logo=android&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
    <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white"> 
   <br/>
 <h4>Tools</h4>
   <br/>
-<img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br/>
 </summary>
 </details>
