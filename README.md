@@ -5,7 +5,8 @@
 <summary>About Me</summary>
 <h3>🧠 My Skills</h3>
 <h4>✶ Platforms & Languages ✶</h4>
-<img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/android-3ddc84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/sapgui-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/abap-1EAFEC?style=flat-square&logo=abap&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
