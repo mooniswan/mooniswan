@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=Hi there" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=Hi there&fontSize=100&textBg=true" width="100%"/>
 
 <h2> ✴︎Hi there✴︎ </h2>
   <br/>
