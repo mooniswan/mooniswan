@@ -17,6 +17,7 @@ Platforms & Languages
 Tools  
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/> 
 </summary>
+</details>
 
 <img src="https://github.com/mooniswan/mooniswan/blob/output/github-snake-dark.svg" width="100%">
 
