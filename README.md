@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFFFFF,25:e3f5f9,45:c3eaff,75:8dc1f0,100:39587b&height=200&section=header&text=✴︎Hi%20there✴︎&animation=twinkling&fontColor=d6ace6&fontSize=40" width="100%"/>
 <details>
 <summary>About Me</summary>
@@ -22,5 +22,5 @@ Tools
 
 <img src="https://github.com/mooniswan/mooniswan/blob/output/github-snake-dark.svg" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,10:e3f5f9,30:c3eaff,75:8dc1f0,100:39587b&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
