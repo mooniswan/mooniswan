@@ -7,7 +7,7 @@
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mooniswan&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
-🧠 My Skills  
+## 🧠 My Skills  
 Platforms & Languages  
 <img src="https://img.shields.io/badge/Android-black?style=flat-square&logo=android&logoColor=white"/>  
 Tools  
