@@ -7,7 +7,7 @@
 <h4>✶ Platforms & Languages ✶</h4>
 <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/1EAFEC?style=flat-square&logo=abap&logoColor=white"> 
+  <img src="https://img.shields.io/badge/abap-1EAFEC?style=flat-square&logo=abap&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
