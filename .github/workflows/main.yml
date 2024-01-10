@@ -22,7 +22,7 @@ jobs:
           github_user_name: mooniswan
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?color_snake=#28151D&color_dots=#EEEEEE,#e7cefe,#e8a8c3,#E791A2,#DC809F,?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=#FFFFFF&color_dots=#DA7E79,#CF98AE,#B990B0,#706696,#262A54,?palette=github-dark
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
