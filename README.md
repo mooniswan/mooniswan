@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=✴︎Hi%20there✴︎&animation=twinkling&fontColor=d6ace6&fontSize=40" width="100%"/>
 <!--color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7-->
-<h2> ✴︎Hi there✴︎ </h2>
-  <br/>
 <details>
 <summary>About Me</summary>
 <h4>🧠 My Skills  </h4>
