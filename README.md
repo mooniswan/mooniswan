@@ -1,18 +1,19 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFFFFF,25:e3f5f9,45:c3eaff,75:8dc1f0,100:39587b&height=200&section=header&text=✴︎Hi%20there✴︎&animation=twinkling&fontColor=d6ace6&fontSize=40" width="100%"/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=하이;데얼)](https://git.io/typing-svg)
 <details>
 <summary>About Me</summary>
-<h4>🧠 My Skills  </h4>
-Platforms & Languages
+<h3>🧠 My Skills</h3>
+<h4>Platforms & Languages</h4>
   <br/>
 <img src="https://img.shields.io/badge/Android-black?style=flat-square&logo=android&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
    <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white"> 
   <br/>
-Tools
+<h4>Tools</h4>
   <br/>
 <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
