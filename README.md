@@ -3,7 +3,7 @@
   
 <details>
 <summary>About Me</summary>
-<h3>🧠 I'm stu(dying)...</h3>
+<h3>🧠 I'm stu(dying)</h3>
 <h4>✶ Platforms & Languages ✶</h4>
 <img src="https://img.shields.io/badge/android-3ddc84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/sapgui-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
