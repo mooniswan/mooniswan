@@ -29,8 +29,8 @@
 
 <img src="https://github.com/mooniswan/mooniswan/blob/output/github-snake-dark.svg" width="100%">
 
-<h4> Certifications </h4>
-<img src="https://github.com/mooniswan/mooniswan/assets/113094072/270ce4b9-0a35-4fc1-9e38-781acf87cb06" width=30% />
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,10:e3f5f9,30:c3eaff,70:8dc1f0,100:39587b&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
+
+<h4> Certifications </h4>
+<img src="https://github.com/mooniswan/mooniswan/assets/113094072/270ce4b9-0a35-4fc1-9e38-781acf87cb06" width = 20% />
