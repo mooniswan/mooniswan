@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFFFFF,25:e3f5f9,45:c3eaff,75:8dc1f0,100:39587b&height=200&section=header&text=✶Hi%20there✶&animation=twinkling&fontColor=d6ace6&fontSize=40" width="100%"/>
-  
+
+<!--
 <details>
 <summary> About Me </summary>
   <h3> 🧠 I'm studying </h3>
@@ -19,6 +20,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 <br/>
 </details>
+-->
 <!--
 <details>
 <summary> Certifications </summary>
