@@ -1,6 +1,14 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFFFFF,25:e3f5f9,45:c3eaff,75:8dc1f0,100:39587b&height=200&section=header&text=Hi%20I'm%20Chaewon%20Moon&animation=fadeIn&fontColor=d6ace6&fontSize=40&stroke=F0F6FB&strokeWidth=0.5" width="100%"/>
   
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/mooniswan"
+    width="800"
+    height="150"
+  />
+</a>
+  
 <!--
 <details>
 <summary> About Me </summary>
@@ -15,14 +23,6 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
 <br/>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/mooniswan?pet-id=617772134025503928"
-    width="400"
-    height="140"
-  />
-</a>
 
 <h4> ✶ Tools ✶ </h4>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
