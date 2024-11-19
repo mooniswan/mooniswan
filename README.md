@@ -5,12 +5,11 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/mooniswan?pet-id=636564764572341282"
-    width="700"
+    src="https://render.gitanimals.org/lines/mooniswan?pet-id=638676159027827185"
+    width="600"
     height="150"
   />
 </a>
-  
   
 <!--
 <details>
