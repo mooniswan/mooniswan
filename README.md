@@ -43,17 +43,16 @@
   <br/>
   <img src="https://github.com/mooniswan/mooniswan/assets/113094072/270ce4b9-0a35-4fc1-9e38-781acf87cb06" width = 25% />
 </details>
--->
-
 <br/>
-
+-->
+<!--
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooniswan&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&border_radius=1.8" width=38% />
   <img src="https://github-readme-stats.vercel.app/api?username=mooniswan&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&rank_icon=github&border_radius=1.8" width=56% />
 </div>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mooniswan&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
-
+-->
   <img src="https://github.com/mooniswan/mooniswan/blob/output/github-snake-dark.svg" width="100%">
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,10:e3f5f9,30:c3eaff,70:8dc1f0,100:39587b&height=40&section=footer&text=&fontSize=0" width="100%"/>
