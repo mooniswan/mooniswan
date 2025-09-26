@@ -38,7 +38,7 @@
 <details>
 <summary> Certifications </summary>
 <br/>
-  2023.10 Topcit Level 3(498)
+  2023.10 Topcit Level 3(602)
   <br/>
   2023.12 ABAP Certi
   <br/>
